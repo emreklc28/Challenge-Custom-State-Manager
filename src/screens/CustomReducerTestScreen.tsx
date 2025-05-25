@@ -8,6 +8,8 @@ const CustomReducerTestScreen = () => {
     name: "",
   });
 
+  // deneme yapıldı. 
+
   return (
     <View style={styles.container}>
       <Text style={styles.label}>Name: {state.name}</Text>
